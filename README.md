@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-**Total Time:** 3.0h
+**Total Time:** 10h
+
+### Day 3: June 9th
+
+**Time**: 3.5h
+**Notes**: Completed part 3B of full-stack open. (Deployed my first Node app to Heroku :D) Read some more Eloquent Javascript.
 
 ### Day 2: June 8th
 
