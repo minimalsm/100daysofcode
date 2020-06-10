@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-**Total Time:** 10h
+**Total Time:** 11h
+
+### Day 4: June 10th
+
+**Time**: 1h
+**Notes**: Started Learning about MongoDB through full-stack-open and registered for mongodb m001.
 
 ### Day 3: June 9th
 
