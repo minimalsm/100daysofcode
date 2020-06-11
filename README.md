@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-**Total Time:** 11h
+**Total Time:** 12.5h
+
+### Day 5: June 11th
+
+**Time**: 1.5h
+**Notes**: Working through mongoDB m001. Still not convinced in NoSQL > SQL but open to it. Read some of the ReactJS docs.
 
 ### Day 4: June 10th
 
