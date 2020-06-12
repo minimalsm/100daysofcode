@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-**Total Time:** 12.5h
+**Total Time:** 14.5h
+
+### Day 6: June 1wth
+
+**Time**: 2h
+**Notes**: Hit my first bump in full-stack-open where some serious debugging was required to fix. Find debugging in JS in general more burdensome than the other languages I'm used to for some reason.
 
 ### Day 5: June 11th
 
